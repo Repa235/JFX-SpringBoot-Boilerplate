@@ -1,4 +1,4 @@
-package com.repa235.bolerplate.controllers;
+package com.repa235.boilerplate.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

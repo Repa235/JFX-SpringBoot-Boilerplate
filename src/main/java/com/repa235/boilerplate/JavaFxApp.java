@@ -1,4 +1,4 @@
-package com.repa235.bolerplate;
+package com.repa235.boilerplate;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
